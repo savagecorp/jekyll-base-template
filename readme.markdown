@@ -1,20 +1,20 @@
 Jekyll Template Instructions
 ====================
 
-- clone to appropriate folder
-- run bundle
-- update the git/config file by:
+clone to appropriate folder
+
+< run bundle >
 
 Update your Github config file to point to your project repository
 ------------------------------------------------------------------ 
-mate .git/config
+< mate .git/config >
 
 update < url = > NEW REPO DESTINATION
 
 watch sass file using:
 ---------------------
-sass --watch stylesheets/sass:stylesheets/compiled
+< sass --watch stylesheets/sass:stylesheets/compiled >
 
 Start Jekyll Server:
 ---------------------
-jekyll --server
+< jekyll --server >
