@@ -2,7 +2,7 @@ Jekyll Template Instructions
 ====================
 
 clone to appropriate folder
-
+% perl Markdown.pl --html4tags foo.text
 < run bundle >
 
 ### Update your Github config file to point to your project repository
