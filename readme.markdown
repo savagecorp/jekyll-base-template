@@ -1,7 +1,6 @@
 Jekyll Template Instructions
 ====================
 
-
 - clone to appropriate folder
 - run bundle
 - update the git/config file by:
